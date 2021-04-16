@@ -17,7 +17,9 @@ export default function Content({parts}){
                     </div>
                 )
             })}
+            -----------------------------------
             <p>Total de ejercicios: {total}</p>
+            -----------------------------------
         </div>
     );
 }
